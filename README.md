@@ -1,4 +1,4 @@
-# Three.js - Template - Complex
+# Three.js - Complex - Template (Vite)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
